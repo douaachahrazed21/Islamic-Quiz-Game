@@ -1,0 +1,103 @@
+body {
+    background-color: #ffffff;
+    color: #ffffff;
+    margin: 0;
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    min-height: 100vh;
+    justify-items: center;
+    align-items: center;
+    font-family: "Noto Kufi Arabic", serif;
+    font-family: 'Kumbh Sans' , sans-serif;
+}
+  
+.title {
+    color: #914d5b;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    font-family: "Noto Kufi Arabic", serif;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    width: 240px;
+    height: 240px;
+}
+.btn button {
+    color: #292929;
+    font-size: medium;
+    font-weight: bold;
+    padding: 15px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: #d28b8b;
+}
+
+.text {
+    color: #914d5b;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.image {
+    display: flex;
+    justify-content: center;
+    width: 200px;
+    height: 200px;
+}
+.btn {
+    display: flex;    
+    gap: 35px;
+}
+.nextbtn button {
+    color: #292929;
+    font-size: medium;
+    font-weight: bold;
+    padding: 15px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: #d28b8b;
+}
+.retbtn button {
+    color: #292929;
+    font-size: medium;
+    font-weight: bold;
+    padding: 15px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: #d28b8b;
+}
+.repbtn button {
+    color: #292929;
+    font-size: medium;
+    font-weight: bold;
+    padding: 15px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-width: 0px;
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    background-color: #d28b8b;
+}
