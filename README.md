@@ -1,4 +1,4 @@
-# 🕌 من سيربح الجنة؟ - Who Will Win Paradise?
+# Who Will Win Paradise ? 🕌 من سيربح الجنة؟ 
 
 An interactive Islamic quiz game with 10 levels of Arabic questions, each with three answer choices. Players win by selecting the correct answer and lose if they choose incorrectly.
 
